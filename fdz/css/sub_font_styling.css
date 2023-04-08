@@ -44,7 +44,7 @@
 .fz-31 {font-size: 31px;}
 .fz-32 {font-size: 32px;}
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 720px) {
 /* Text Align */
 .rv-txa-left {text-align: left;}
 .rv-txa-center {text-align: center;}

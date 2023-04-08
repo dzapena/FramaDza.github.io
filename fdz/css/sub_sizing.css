@@ -316,7 +316,7 @@
 .mx-wh-1150-abs{max-width: 1150px;}
 .mx-wh-1200-abs{max-width: 1200px;}
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 720px) {
 /* Width Responsive */
 .wh-50 {width: 100%;}
 .wh-100{width: 100%;}

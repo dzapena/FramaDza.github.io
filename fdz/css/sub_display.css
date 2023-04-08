@@ -38,6 +38,6 @@
 .jfc-it {justify-content: inherit;}
 .jfc-fe {justify-content: flex-end;}
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 720px) {
   .flex {display: grid;}
 }
