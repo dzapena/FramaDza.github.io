@@ -1,0 +1,53 @@
+/* Text Align */
+.txa-left {text-align: left;}
+.txa-center {text-align: center;}
+.txa-right {text-align: right;}
+.txa-justify {text-align: justify;}
+
+/* Text Style */
+.txs-u {text-decoration: underline;}
+.txs-n {text-decoration: none;}
+.txs-b {font-weight: bold;}
+.txs-i {font-style: italic;}
+
+/* Font Size */
+.fz-1 {font-size: 1px;}
+.fz-2 {font-size: 2px;}
+.fz-3 {font-size: 3px;}
+.fz-4 {font-size: 4px;}
+.fz-5 {font-size: 5px;}
+.fz-6 {font-size: 6px;}
+.fz-7 {font-size: 7px;}
+.fz-8 {font-size: 8px;}
+.fz-9 {font-size: 9px;}
+.fz-10 {font-size: 10px;}
+.fz-11 {font-size: 11px;}
+.fz-12 {font-size: 12px;}
+.fz-13 {font-size: 13px;}
+.fz-14 {font-size: 14px;}
+.fz-15 {font-size: 15px;}
+.fz-16 {font-size: 16px;}
+.fz-17 {font-size: 17px;}
+.fz-18 {font-size: 18px;}
+.fz-19 {font-size: 19px;}
+.fz-20 {font-size: 20px;}
+.fz-21 {font-size: 21px;}
+.fz-22 {font-size: 22px;}
+.fz-23 {font-size: 23px;}
+.fz-24 {font-size: 24px;}
+.fz-25 {font-size: 25px;}
+.fz-26 {font-size: 26px;}
+.fz-27 {font-size: 27px;}
+.fz-28 {font-size: 28px;}
+.fz-29 {font-size: 29px;}
+.fz-30 {font-size: 30px;}
+.fz-31 {font-size: 31px;}
+.fz-32 {font-size: 32px;}
+
+@media only screen and (max-width: 800px) {
+/* Text Align */
+.rv-txa-left {text-align: left;}
+.rv-txa-center {text-align: center;}
+.rv-txa-right {text-align: right;}
+.rv-txa-justify {text-align: justify;}
+}

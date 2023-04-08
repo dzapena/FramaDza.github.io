@@ -1,0 +1,37 @@
+@import "sub_margin.css";
+@import "sub_fonts.css";
+@import "sub_sizing.css";
+@import "sub_font_styling.css";
+@import "sub_colors.css";
+@import "sub_display.css";
+@import "sub_border.css";
+@import "font-awesome.min.css";
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Poppins Reguler;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	opacity: 75%;
+}
+/* List */
+.hr-list {
+	display: inline;
+}
+.vr-list {
+	display: flex;
+}
+
+/* Box */
+.box {
+	padding: 0.5em;
+	margin: 1em;
+	box-shadow: 0 0 3px;
+	border-radius: 15px;
+}
+.cr {
+	cursor: pointer;
+}

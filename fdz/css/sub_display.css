@@ -1,0 +1,43 @@
+/* Display */
+.inline {display: inline;}
+.inflex {display: inline-flex;}
+.inblock {display: inline-block;}
+.ingrid {display: inline-grid;}
+.flex {display: flex;}
+.block {display: block;}
+.grid {display: grid;}
+.none {display: none;}
+
+/* Floats */
+.fl-r{float: right;}
+.fl-l{float: left;}
+.fl-cn{float: center;}
+
+/* Display Absolute */
+.inline-abs {display: inline;}
+.inflex-abs {display: inline-flex;}
+.inblock-abs {display: inline-block;}
+.ingrid-abs {display: inline-grid;}
+.flex-abs {display: flex;}
+.block-abs {display: block;}
+.grid-abs {display: grid;}
+.none-abs {display: none;}
+
+
+/* Align Item */
+.alit-cn {align-items: center;}
+.alit-st {align-items: stretch;}
+.alit-bl {align-items: baseline;}
+.alit-it {align-items: inherit;}
+.alit-fe {align-items: flex-end;}
+
+/* Justify Content */
+.jfc-cn {justify-content: center;}
+.jfc-st {justify-content: stretch;}
+.jfc-bl {justify-content: baseline;}
+.jfc-it {justify-content: inherit;}
+.jfc-fe {justify-content: flex-end;}
+
+@media only screen and (max-width: 800px) {
+  .flex {display: grid;}
+}
