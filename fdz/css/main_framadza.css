@@ -16,6 +16,7 @@ a {
 }
 a:hover {
 	opacity: 75%;
+	text-decoration: underline;
 }
 /* List */
 .hr-list {

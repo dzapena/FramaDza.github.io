@@ -6,11 +6,6 @@
 .c-blue-3{color: #00CED1;}
 .c-blue-4{color: #AFEEEE;}
 
-/* Color Hover */
-.c-black:hover,.white:hover,.c-dark-turquoise:hover,.c-pale-turquoise:hover {
-	opacity: 75%;
-	text-decoration: underline;}
-
 /* Background Color */
 .bc-bg-1 {background: #eee;}
 .bc-bg-2 {background: #DAE3E7;}
@@ -87,11 +82,11 @@
 .bg-geo-1 {
 	background-image: url('../img/bg-geo-1.png');
 	background-size: 100%;
- 	background-repeat: no-repeat;}
+ 	background-repeat: repeat-y;}
 .bg-geo-2 {
 	background-image: url('../img/bg-geo-2.png');
 	background-size: 100%;
- 	background-repeat: no-repeat;}
+ 	background-repeat: repeat-y;}
 .bg-geo-2 {
 	background-image: url('../img/bg-geo-3.png');
 	background-size: 100%;
