@@ -1,3 +1,4 @@
+@import "sub_components.css";
 @import "sub_margin.css";
 @import "sub_fonts.css";
 @import "sub_sizing.css";
@@ -22,20 +23,11 @@ a:hover {
 	opacity: 75%;
 	text-decoration: underline;
 }
-/* List */
-.hr-list {
-	display: inline;
-}
-.vr-list {
-	display: flex;
-}
-
-/* Box */
-.box {
-	padding: 0.5em;
-	margin: 1em;
-	box-shadow: 0 0 3px;
-	border-radius: 15px;
+code {
+	color: rgb(3, 133, 94);
+	text-shadow: 0 0 3px 0;
+	font-size: 17px;
+	overflow: auto;
 }
 .cr {
 	cursor: pointer;
