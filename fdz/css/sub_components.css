@@ -1,5 +1,5 @@
 @import "sub_fonts.css";
-.login-form-1 {
+.login-form-minimalis {
     font-family: Poppins Reguler;
     width: 450px;
     height: 100%;
@@ -7,15 +7,15 @@
     box-shadow: 0 0 3px 0;
     border-radius: 20px;
 }
-.login-form-1 h1 {
+.login-form-minimalis h1 {
     text-align: center;
     padding: 20px;
     font-size: 25px;
 }
-.login-form-1 form div{
+.login-form-minimalis form div{
     text-align: center;
 }
-.login-form-1 form div input {
+.login-form-minimalis form div input {
     color: black;
     border-radius: 15px;
     padding: 15px;
@@ -24,10 +24,10 @@
     border: 2px transparent;
     background-color: #eee;
 }
-.login-form-1 form {
+.login-form-minimalis form {
     text-align: center;
 }
-.login-form-1 form input {
+.login-form-minimalis form input {
     font-weight: bold;
     color: black;
     border-radius: 15px;
@@ -40,10 +40,10 @@
     background-color: aqua;
     color: #fff;
 }
-.login-form-1 form p {
+.login-form-minimalis form p {
     text-align: center;
     padding: 10px;
 }
-.login-form-1 form p a {
+.login-form-minimalis form p a {
     color: rgb(8, 126, 126);
 }
