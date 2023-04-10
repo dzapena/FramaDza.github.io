@@ -7,6 +7,9 @@
 @import "sub_border.css";
 @import "font-awesome.min.css";
 @import "sub_sizing/768p_sizing.css";
+html {
+	scroll-behavior: smooth;
+}
 body {
 	padding: 0;
 	margin: 0;
