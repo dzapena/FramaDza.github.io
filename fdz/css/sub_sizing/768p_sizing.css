@@ -1,40 +1,40 @@
-@media only screen and (max-width: 7680px) {
+@media only screen and (max-width: 768px) {
 /* Height */
 .ht-50,.ht-55,.ht-60,.ht-65,.ht-70,.ht-75,.ht-80,.ht-85,.ht-90.ht-95,.ht-100,.ht-105,.ht-110,.ht-115,.ht-120,.ht-125,.ht-130,.ht-135,.ht-140,.ht-145,.ht-150,.ht-155,.ht-160,.ht-165,.ht-170,.ht-175,.ht-180,.ht-185,.ht-190,.ht-195,.ht-200,.ht-205,.ht-210,.ht-215,.ht-220,.ht-225,.ht-230,.ht-235,.ht-240,.ht-245,.ht-250,.ht-255,.ht-260,.ht-265,.ht-270,.ht-275,.ht-280,.ht-285,.ht-290,.ht-295,.ht-300,.ht-305,.ht-310,.ht-315,.ht-320,.ht-325,.ht-330,.ht-335,.ht-340,.ht-345,.ht-350,.ht-355,.ht-360,.ht-365,.ht-370,.ht-375,.ht-380,.ht-385,.ht-390,.ht-395,.ht-400,.ht-405,.ht-410,.ht-415,.ht-420,.ht-425,.ht-430,.ht-435,.ht-440,.ht-445,.ht-450,.ht-455,.ht-460,.ht-465,.ht-470,.ht-475,.ht-480,.ht-485,.ht-490,.ht-495,.ht-500,.ht-505,.ht-510,.ht-515,.ht-520,.ht-525,.ht-530,.ht-535,.ht-540,.ht-545,.ht-550,.ht-555,.ht-560,.ht-565,.ht-570,.ht-575,.ht-580,.ht-585,.ht-590,.ht-595,.ht-600,.ht-605,.ht-610,.ht-615,.ht-620,.ht-625,.ht-630,.ht-635,.ht-640,.ht-645,.ht-650,.ht-655,.ht-660,.ht-665,.ht-670,.ht-675,.ht-680,.ht-685,.ht-690,.ht-695,.ht-700,.ht-705,.ht-710,.ht-715,.ht-720,.ht-725,.ht-730,.ht-735,.ht-740,.ht-745,.ht-750,.ht-755,.ht-760,.ht-765,.ht-770,.ht-775,.ht-780,.ht-785,.ht-790,.ht-795,.ht-800,.ht-805,.ht-810,.ht-815,.ht-820,.ht-825,.ht-830,.ht-835,.ht-840,.ht-845,.ht-850,.ht-855,.ht-860,.ht-865,.ht-870,.ht-875,.ht-880,.ht-885,.ht-890,.ht-895,.ht-900,.ht-905,.ht-910,.ht-915,.ht-920,.ht-925,.ht-930,.ht-935,.ht-940,.ht-945,.ht-950,.ht-955,.ht-960,.ht-965,.ht-970,.ht-975,.ht-980,.ht-985,.ht-990,.ht-995,.ht-1000,.ht-1005,.ht-1010,.ht-1015,.ht-1020,.ht-1025,.ht-1030,.ht-1035,.ht-1040,.ht-1045,.ht-1050,.ht-1055,.ht-1060,.ht-1065,.ht-1070,.ht-1075,.ht-1080,.ht-1085,.ht-1090,.ht-1095,.ht-1100,.ht-1105,.ht-1110,.ht-1115,.ht-1120,.ht-1125,.ht-1130,.ht-1135,.ht-1140,.ht-1145,.ht-1150,.ht-1155,.ht-1160,.ht-1165,.ht-1170,.ht-1175,.ht-1180,.ht-1185,.ht-1190,.ht-1195,.ht-1200 {
-	height: 95%;
+	height: 100%
 }
 /* Minimun Height */
 .mn-ht-50,.mn-ht-55,.mn-ht-60,.mn-ht-65,.mn-ht-70,.mn-ht-75,.mn-ht-80,.mn-ht-85,.mn-ht-90,.mn-ht-95,.mn-ht-100,.mn-ht-105,.mn-ht-110,.mn-ht-115,.mn-ht-120,.mn-ht-125,.mn-ht-130,.mn-ht-135,.mn-ht-140,.mn-ht-145,.mn-ht-150,.mn-ht-155,.mn-ht-160,.mn-ht-165,.mn-ht-170,.mn-ht-175,.mn-ht-180,.mn-ht-185,.mn-ht-190,.mn-ht-195,.mn-ht-200,.mn-ht-205,.mn-ht-210,.mn-ht-215,.mn-ht-220,.mn-ht-225,.mn-ht-230,.mn-ht-235,.mn-ht-240,.mn-ht-245,.mn-ht-250,.mn-ht-255,.mn-ht-260,.mn-ht-265,.mn-ht-270,.mn-ht-275,.mn-ht-280,.mn-ht-285,.mn-ht-290,.mn-ht-295,.mn-ht-300,.mn-ht-305,.mn-ht-310,.mn-ht-315,.mn-ht-320,.mn-ht-325,.mn-ht-330,.mn-ht-335,.mn-ht-340,.mn-ht-345,.mn-ht-350,.mn-ht-355,.mn-ht-360,.mn-ht-365,.mn-ht-370,.mn-ht-375,.mn-ht-380,.mn-ht-385,.mn-ht-390,.mn-ht-395,.mn-ht-400,.mn-ht-405,.mn-ht-410,.mn-ht-415,.mn-ht-420,.mn-ht-425,.mn-ht-430,.mn-ht-435,.mn-ht-440,.mn-ht-445,.mn-ht-450,.mn-ht-455,.mn-ht-460,.mn-ht-465,.mn-ht-470,.mn-ht-475,.mn-ht-480,.mn-ht-485,.mn-ht-490,.mn-ht-495,.mn-ht-500,.mn-ht-505,.mn-ht-510,.mn-ht-515,.mn-ht-520,.mn-ht-525,.mn-ht-530,.mn-ht-535,.mn-ht-540,.mn-ht-545,.mn-ht-550,.mn-ht-555,.mn-ht-560,.mn-ht-565,.mn-ht-570,.mn-ht-575,.mn-ht-580,.mn-ht-585,.mn-ht-590,.mn-ht-595,.mn-ht-600,.mn-ht-605,.mn-ht-610,.mn-ht-615,.mn-ht-620,.mn-ht-625,.mn-ht-630,.mn-ht-635,.mn-ht-640,.mn-ht-645,.mn-ht-650,.mn-ht-655,.mn-ht-660,.mn-ht-665,.mn-ht-670,.mn-ht-675,.mn-ht-680,.mn-ht-685,.mn-ht-690,.mn-ht-695,.mn-ht-700,.mn-ht-705,.mn-ht-710,.mn-ht-715,.mn-ht-720,.mn-ht-725,.mn-ht-730,.mn-ht-735,.mn-ht-740,.mn-ht-745,.mn-ht-750,.mn-ht-755,.mn-ht-760,.mn-ht-765,.mn-ht-770,.mn-ht-775,.mn-ht-780,.mn-ht-785,.mn-ht-790,.mn-ht-795,.mn-ht-800,.mn-ht-805,.mn-ht-810,.mn-ht-815,.mn-ht-820,.mn-ht-825,.mn-ht-830,.mn-ht-835,.mn-ht-840,.mn-ht-845,.mn-ht-850,.mn-ht-855,.mn-ht-860,.mn-ht-865,.mn-ht-870,.mn-ht-875,.mn-ht-880,.mn-ht-885,.mn-ht-890,.mn-ht-895,.mn-ht-900,.mn-ht-905,.mn-ht-910,.mn-ht-915,.mn-ht-920,.mn-ht-925,.mn-ht-930,.mn-ht-935,.mn-ht-940,.mn-ht-945,.mn-ht-950,.mn-ht-955,.mn-ht-960,.mn-ht-965,.mn-ht-970,.mn-ht-975,.mn-ht-980,.mn-ht-985,.mn-ht-990,.mn-ht-995,.mn-ht-1000,.mn-ht-1005,.mn-ht-1010,.mn-ht-1015,.mn-ht-1020,.mn-ht-1025,.mn-ht-1030,.mn-ht-1035,.mn-ht-1040,.mn-ht-1045,.mn-ht-1050,.mn-ht-1055,.mn-ht-1060,.mn-ht-1065,.mn-ht-1070,.mn-ht-1075,.mn-ht-1080,.mn-ht-1085,.mn-ht-1090,.mn-ht-1095,.mn-ht-1100,.mn-ht-1105,.mn-ht-1110,.mn-ht-1115,.mn-ht-1120,.mn-ht-1125,.mn-ht-1130,.mn-ht-1135,.mn-ht-1140,.mn-ht-1145,.mn-ht-1150,.mn-ht-1155,.mn-ht-1160,.mn-ht-1165,.mn-ht-1170,.mn-ht-1175,.mn-ht-1180,.mn-ht-1185,.mn-ht-1190,.mn-ht-1195,.mn-ht-1200{
-	min-height: 95%;
+	min-height: 100%
 }
 /* Minimun Height */
 .mx-ht-50,.mx-ht-55,.mx-ht-60,.mx-ht-65,.mx-ht-70,.mx-ht-75,.mx-ht-80,.mx-ht-85,.mx-ht-90,.mx-ht-95,.mx-ht-100,.mx-ht-105,.mx-ht-110,.mx-ht-115,.mx-ht-120,.mx-ht-125,.mx-ht-130,.mx-ht-135,.mx-ht-140,.mx-ht-145,.mx-ht-150,.mx-ht-155,.mx-ht-160,.mx-ht-165,.mx-ht-170,.mx-ht-175,.mx-ht-180,.mx-ht-185,.mx-ht-190,.mx-ht-195,.mx-ht-200,.mx-ht-205,.mx-ht-210,.mx-ht-215,.mx-ht-220,.mx-ht-225,.mx-ht-230,.mx-ht-235,.mx-ht-240,.mx-ht-245,.mx-ht-250,.mx-ht-255,.mx-ht-260,.mx-ht-265,.mx-ht-270,.mx-ht-275,.mx-ht-280,.mx-ht-285,.mx-ht-290,.mx-ht-295,.mx-ht-300,.mx-ht-305,.mx-ht-310,.mx-ht-315,.mx-ht-320,.mx-ht-325,.mx-ht-330,.mx-ht-335,.mx-ht-340,.mx-ht-345,.mx-ht-350,.mx-ht-355,.mx-ht-360,.mx-ht-365,.mx-ht-370,.mx-ht-375,.mx-ht-380,.mx-ht-385,.mx-ht-390,.mx-ht-395,.mx-ht-400,.mx-ht-405,.mx-ht-410,.mx-ht-415,.mx-ht-420,.mx-ht-425,.mx-ht-430,.mx-ht-435,.mx-ht-440,.mx-ht-445,.mx-ht-450,.mx-ht-455,.mx-ht-460,.mx-ht-465,.mx-ht-470,.mx-ht-475,.mx-ht-480,.mx-ht-485,.mx-ht-490,.mx-ht-495,.mx-ht-500,.mx-ht-505,.mx-ht-510,.mx-ht-515,.mx-ht-520,.mx-ht-525,.mx-ht-530,.mx-ht-535,.mx-ht-540,.mx-ht-545,.mx-ht-550,.mx-ht-555,.mx-ht-560,.mx-ht-565,.mx-ht-570,.mx-ht-575,.mx-ht-580,.mx-ht-585,.mx-ht-590,.mx-ht-595,.mx-ht-600,.mx-ht-605,.mx-ht-610,.mx-ht-615,.mx-ht-620,.mx-ht-625,.mx-ht-630,.mx-ht-635,.mx-ht-640,.mx-ht-645,.mx-ht-650,.mx-ht-655,.mx-ht-660,.mx-ht-665,.mx-ht-670,.mx-ht-675,.mx-ht-680,.mx-ht-685,.mx-ht-690,.mx-ht-695,.mx-ht-700,.mx-ht-705,.mx-ht-710,.mx-ht-715,.mx-ht-720,.mx-ht-725,.mx-ht-730,.mx-ht-735,.mx-ht-740,.mx-ht-745,.mx-ht-750,.mx-ht-755,.mx-ht-760,.mx-ht-765,.mx-ht-770,.mx-ht-775,.mx-ht-780,.mx-ht-785,.mx-ht-790,.mx-ht-795,.mx-ht-800,.mx-ht-805,.mx-ht-810,.mx-ht-815,.mx-ht-820,.mx-ht-825,.mx-ht-830,.mx-ht-835,.mx-ht-840,.mx-ht-845,.mx-ht-850,.mx-ht-855,.mx-ht-860,.mx-ht-865,.mx-ht-870,.mx-ht-875,.mx-ht-880,.mx-ht-885,.mx-ht-890,.mx-ht-895,.mx-ht-900,.mx-ht-905,.mx-ht-910,.mx-ht-915,.mx-ht-920,.mx-ht-925,.mx-ht-930,.mx-ht-935,.mx-ht-940,.mx-ht-945,.mx-ht-950,.mx-ht-955,.mx-ht-960,.mx-ht-965,.mx-ht-970,.mx-ht-975,.mx-ht-980,.mx-ht-985,.mx-ht-990,.mx-ht-995,.mx-ht-1000,.mx-ht-1005,.mx-ht-1010,.mx-ht-1015,.mx-ht-1020,.mx-ht-1025,.mx-ht-1030,.mx-ht-1035,.mx-ht-1040,.mx-ht-1045,.mx-ht-1050,.mx-ht-1055,.mx-ht-1060,.mx-ht-1065,.mx-ht-1070,.mx-ht-1075,.mx-ht-1080,.mx-ht-1085,.mx-ht-1090,.mx-ht-1095,.mx-ht-1100,.mx-ht-1105,.mx-ht-1110,.mx-ht-1115,.mx-ht-1120,.mx-ht-1125,.mx-ht-1130,.mx-ht-1135,.mx-ht-1140,.mx-ht-1145,.mx-ht-1150,.mx-ht-1155,.mx-ht-1160,.mx-ht-1165,.mx-ht-1170,.mx-ht-1175,.mx-ht-1180,.mx-ht-1185,.mx-ht-1190,.mx-ht-1195,.mx-ht-1200{
-	min-height: 95%;
+	min-height: 100%
 }
 /* Width */
 .wh-50,.wh-55,.wh-60,.wh-65,.wh-70,.wh-75,.wh-80,.wh-85,.wh-90.wh-95,.wh-100,.wh-105,.wh-110,.wh-115,.wh-120,.wh-125,.wh-130,.wh-135,.wh-140,.wh-145,.wh-150,.wh-155,.wh-160,.wh-165,.wh-170,.wh-175,.wh-180,.wh-185,.wh-190,.wh-195,.wh-200,.wh-205,.wh-210,.wh-215,.wh-220,.wh-225,.wh-230,.wh-235,.wh-240,.wh-245,.wh-250,.wh-255,.wh-260,.wh-265,.wh-270,.wh-275,.wh-280,.wh-285,.wh-290,.wh-295,.wh-300,.wh-305,.wh-310,.wh-315,.wh-320,.wh-325,.wh-330,.wh-335,.wh-340,.wh-345,.wh-350,.wh-355,.wh-360,.wh-365,.wh-370,.wh-375,.wh-380,.wh-385,.wh-390,.wh-395,.wh-400,.wh-405,.wh-410,.wh-415,.wh-420,.wh-425,.wh-430,.wh-435,.wh-440,.wh-445,.wh-450,.wh-455,.wh-460,.wh-465,.wh-470,.wh-475,.wh-480,.wh-485,.wh-490,.wh-495,.wh-500,.wh-505,.wh-510,.wh-515,.wh-520,.wh-525,.wh-530,.wh-535,.wh-540,.wh-545,.wh-550,.wh-555,.wh-560,.wh-565,.wh-570,.wh-575,.wh-580,.wh-585,.wh-590,.wh-595,.wh-600,.wh-605,.wh-610,.wh-615,.wh-620,.wh-625,.wh-630,.wh-635,.wh-640,.wh-645,.wh-650,.wh-655,.wh-660,.wh-665,.wh-670,.wh-675,.wh-680,.wh-685,.wh-690,.wh-695,.wh-700,.wh-705,.wh-710,.wh-715,.wh-720,.wh-725,.wh-730,.wh-735,.wh-740,.wh-745,.wh-750,.wh-755,.wh-760,.wh-765,.wh-770,.wh-775,.wh-780,.wh-785,.wh-790,.wh-795,.wh-800,.wh-805,.wh-810,.wh-815,.wh-820,.wh-825,.wh-830,.wh-835,.wh-840,.wh-845,.wh-850,.wh-855,.wh-860,.wh-865,.wh-870,.wh-875,.wh-880,.wh-885,.wh-890,.wh-895,.wh-900,.wh-905,.wh-910,.wh-915,.wh-920,.wh-925,.wh-930,.wh-935,.wh-940,.wh-945,.wh-950,.wh-955,.wh-960,.wh-965,.wh-970,.wh-975,.wh-980,.wh-985,.wh-990,.wh-995,.wh-1000,.wh-1005,.wh-1010,.wh-1015,.wh-1020,.wh-1025,.wh-1030,.wh-1035,.wh-1040,.wh-1045,.wh-1050,.wh-1055,.wh-1060,.wh-1065,.wh-1070,.wh-1075,.wh-1080,.wh-1085,.wh-1090,.wh-1095,.wh-1100,.wh-1105,.wh-1110,.wh-1115,.wh-1120,.wh-1125,.wh-1130,.wh-1135,.wh-1140,.wh-1145,.wh-1150,.wh-1155,.wh-1160,.wh-1165,.wh-1170,.wh-1175,.wh-1180,.wh-1185,.wh-1190,.wh-1195,.wh-1200 {
-	width: 95%;
+	width: 100%
 }
 /* Minimun Width */
 .mn-wh-50,.mn-wh-55,.mn-wh-60,.mn-wh-65,.mn-wh-70,.mn-wh-75,.mn-wh-80,.mn-wh-85,.mn-wh-90,.mn-wh-95,.mn-wh-100,.mn-wh-105,.mn-wh-110,.mn-wh-115,.mn-wh-120,.mn-wh-125,.mn-wh-130,.mn-wh-135,.mn-wh-140,.mn-wh-145,.mn-wh-150,.mn-wh-155,.mn-wh-160,.mn-wh-165,.mn-wh-170,.mn-wh-175,.mn-wh-180,.mn-wh-185,.mn-wh-190,.mn-wh-195,.mn-wh-200,.mn-wh-205,.mn-wh-210,.mn-wh-215,.mn-wh-220,.mn-wh-225,.mn-wh-230,.mn-wh-235,.mn-wh-240,.mn-wh-245,.mn-wh-250,.mn-wh-255,.mn-wh-260,.mn-wh-265,.mn-wh-270,.mn-wh-275,.mn-wh-280,.mn-wh-285,.mn-wh-290,.mn-wh-295,.mn-wh-300,.mn-wh-305,.mn-wh-310,.mn-wh-315,.mn-wh-320,.mn-wh-325,.mn-wh-330,.mn-wh-335,.mn-wh-340,.mn-wh-345,.mn-wh-350,.mn-wh-355,.mn-wh-360,.mn-wh-365,.mn-wh-370,.mn-wh-375,.mn-wh-380,.mn-wh-385,.mn-wh-390,.mn-wh-395,.mn-wh-400,.mn-wh-405,.mn-wh-410,.mn-wh-415,.mn-wh-420,.mn-wh-425,.mn-wh-430,.mn-wh-435,.mn-wh-440,.mn-wh-445,.mn-wh-450,.mn-wh-455,.mn-wh-460,.mn-wh-465,.mn-wh-470,.mn-wh-475,.mn-wh-480,.mn-wh-485,.mn-wh-490,.mn-wh-495,.mn-wh-500,.mn-wh-505,.mn-wh-510,.mn-wh-515,.mn-wh-520,.mn-wh-525,.mn-wh-530,.mn-wh-535,.mn-wh-540,.mn-wh-545,.mn-wh-550,.mn-wh-555,.mn-wh-560,.mn-wh-565,.mn-wh-570,.mn-wh-575,.mn-wh-580,.mn-wh-585,.mn-wh-590,.mn-wh-595,.mn-wh-600,.mn-wh-605,.mn-wh-610,.mn-wh-615,.mn-wh-620,.mn-wh-625,.mn-wh-630,.mn-wh-635,.mn-wh-640,.mn-wh-645,.mn-wh-650,.mn-wh-655,.mn-wh-660,.mn-wh-665,.mn-wh-670,.mn-wh-675,.mn-wh-680,.mn-wh-685,.mn-wh-690,.mn-wh-695,.mn-wh-700,.mn-wh-705,.mn-wh-710,.mn-wh-715,.mn-wh-720,.mn-wh-725,.mn-wh-730,.mn-wh-735,.mn-wh-740,.mn-wh-745,.mn-wh-750,.mn-wh-755,.mn-wh-760,.mn-wh-765,.mn-wh-770,.mn-wh-775,.mn-wh-780,.mn-wh-785,.mn-wh-790,.mn-wh-795,.mn-wh-800,.mn-wh-805,.mn-wh-810,.mn-wh-815,.mn-wh-820,.mn-wh-825,.mn-wh-830,.mn-wh-835,.mn-wh-840,.mn-wh-845,.mn-wh-850,.mn-wh-855,.mn-wh-860,.mn-wh-865,.mn-wh-870,.mn-wh-875,.mn-wh-880,.mn-wh-885,.mn-wh-890,.mn-wh-895,.mn-wh-900,.mn-wh-905,.mn-wh-910,.mn-wh-915,.mn-wh-920,.mn-wh-925,.mn-wh-930,.mn-wh-935,.mn-wh-940,.mn-wh-945,.mn-wh-950,.mn-wh-955,.mn-wh-960,.mn-wh-965,.mn-wh-970,.mn-wh-975,.mn-wh-980,.mn-wh-985,.mn-wh-990,.mn-wh-995,.mn-wh-1000,.mn-wh-1005,.mn-wh-1010,.mn-wh-1015,.mn-wh-1020,.mn-wh-1025,.mn-wh-1030,.mn-wh-1035,.mn-wh-1040,.mn-wh-1045,.mn-wh-1050,.mn-wh-1055,.mn-wh-1060,.mn-wh-1065,.mn-wh-1070,.mn-wh-1075,.mn-wh-1080,.mn-wh-1085,.mn-wh-1090,.mn-wh-1095,.mn-wh-1100,.mn-wh-1105,.mn-wh-1110,.mn-wh-1115,.mn-wh-1120,.mn-wh-1125,.mn-wh-1130,.mn-wh-1135,.mn-wh-1140,.mn-wh-1145,.mn-wh-1150,.mn-wh-1155,.mn-wh-1160,.mn-wh-1165,.mn-wh-1170,.mn-wh-1175,.mn-wh-1180,.mn-wh-1185,.mn-wh-1190,.mn-wh-1195,.mn-wh-1200{
-	min-width: 95%;
+	min-width: 100%
 }
 /* Minimun Width */
 .mx-wh-50,.mx-wh-55,.mx-wh-60,.mx-wh-65,.mx-wh-70,.mx-wh-75,.mx-wh-80,.mx-wh-85,.mx-wh-90,.mx-wh-95,.mx-wh-100,.mx-wh-105,.mx-wh-110,.mx-wh-115,.mx-wh-120,.mx-wh-125,.mx-wh-130,.mx-wh-135,.mx-wh-140,.mx-wh-145,.mx-wh-150,.mx-wh-155,.mx-wh-160,.mx-wh-165,.mx-wh-170,.mx-wh-175,.mx-wh-180,.mx-wh-185,.mx-wh-190,.mx-wh-195,.mx-wh-200,.mx-wh-205,.mx-wh-210,.mx-wh-215,.mx-wh-220,.mx-wh-225,.mx-wh-230,.mx-wh-235,.mx-wh-240,.mx-wh-245,.mx-wh-250,.mx-wh-255,.mx-wh-260,.mx-wh-265,.mx-wh-270,.mx-wh-275,.mx-wh-280,.mx-wh-285,.mx-wh-290,.mx-wh-295,.mx-wh-300,.mx-wh-305,.mx-wh-310,.mx-wh-315,.mx-wh-320,.mx-wh-325,.mx-wh-330,.mx-wh-335,.mx-wh-340,.mx-wh-345,.mx-wh-350,.mx-wh-355,.mx-wh-360,.mx-wh-365,.mx-wh-370,.mx-wh-375,.mx-wh-380,.mx-wh-385,.mx-wh-390,.mx-wh-395,.mx-wh-400,.mx-wh-405,.mx-wh-410,.mx-wh-415,.mx-wh-420,.mx-wh-425,.mx-wh-430,.mx-wh-435,.mx-wh-440,.mx-wh-445,.mx-wh-450,.mx-wh-455,.mx-wh-460,.mx-wh-465,.mx-wh-470,.mx-wh-475,.mx-wh-480,.mx-wh-485,.mx-wh-490,.mx-wh-495,.mx-wh-500,.mx-wh-505,.mx-wh-510,.mx-wh-515,.mx-wh-520,.mx-wh-525,.mx-wh-530,.mx-wh-535,.mx-wh-540,.mx-wh-545,.mx-wh-550,.mx-wh-555,.mx-wh-560,.mx-wh-565,.mx-wh-570,.mx-wh-575,.mx-wh-580,.mx-wh-585,.mx-wh-590,.mx-wh-595,.mx-wh-600,.mx-wh-605,.mx-wh-610,.mx-wh-615,.mx-wh-620,.mx-wh-625,.mx-wh-630,.mx-wh-635,.mx-wh-640,.mx-wh-645,.mx-wh-650,.mx-wh-655,.mx-wh-660,.mx-wh-665,.mx-wh-670,.mx-wh-675,.mx-wh-680,.mx-wh-685,.mx-wh-690,.mx-wh-695,.mx-wh-700,.mx-wh-705,.mx-wh-710,.mx-wh-715,.mx-wh-720,.mx-wh-725,.mx-wh-730,.mx-wh-735,.mx-wh-740,.mx-wh-745,.mx-wh-750,.mx-wh-755,.mx-wh-760,.mx-wh-765,.mx-wh-770,.mx-wh-775,.mx-wh-780,.mx-wh-785,.mx-wh-790,.mx-wh-795,.mx-wh-800,.mx-wh-805,.mx-wh-810,.mx-wh-815,.mx-wh-820,.mx-wh-825,.mx-wh-830,.mx-wh-835,.mx-wh-840,.mx-wh-845,.mx-wh-850,.mx-wh-855,.mx-wh-860,.mx-wh-865,.mx-wh-870,.mx-wh-875,.mx-wh-880,.mx-wh-885,.mx-wh-890,.mx-wh-895,.mx-wh-900,.mx-wh-905,.mx-wh-910,.mx-wh-915,.mx-wh-920,.mx-wh-925,.mx-wh-930,.mx-wh-935,.mx-wh-940,.mx-wh-945,.mx-wh-950,.mx-wh-955,.mx-wh-960,.mx-wh-965,.mx-wh-970,.mx-wh-975,.mx-wh-980,.mx-wh-985,.mx-wh-990,.mx-wh-995,.mx-wh-1000,.mx-wh-1005,.mx-wh-1010,.mx-wh-1015,.mx-wh-1020,.mx-wh-1025,.mx-wh-1030,.mx-wh-1035,.mx-wh-1040,.mx-wh-1045,.mx-wh-1050,.mx-wh-1055,.mx-wh-1060,.mx-wh-1065,.mx-wh-1070,.mx-wh-1075,.mx-wh-1080,.mx-wh-1085,.mx-wh-1090,.mx-wh-1095,.mx-wh-1100,.mx-wh-1105,.mx-wh-1110,.mx-wh-1115,.mx-wh-1120,.mx-wh-1125,.mx-wh-1130,.mx-wh-1135,.mx-wh-1140,.mx-wh-1145,.mx-wh-1150,.mx-wh-1155,.mx-wh-1160,.mx-wh-1165,.mx-wh-1170,.mx-wh-1175,.mx-wh-1180,.mx-wh-1185,.mx-wh-1190,.mx-wh-1195,.mx-wh-1200{
-	min-height: 95%;
+	min-height: 100%
 }
 /* Height */
-.hdp-ht-a {height: auto;}
-.hdp-ht-p10{height: 10%;}
-.hdp-ht-p20{height: 20%;}
-.hdp-ht-p30{height: 30%;}
-.hdp-ht-p40{height: 40%;}
-.hdp-ht-p50{height: 50%;}
-.hdp-ht-p60{height: 60%;}
-.hdp-ht-p70{height: 70%;}
-.hdp-ht-p80{height: 80%;}
-.hdp-ht-p90{height: 90%;}
-.hdp-ht-p100{height: 100%;}
+.hdp-ht-a {height: auto !important}
+.hdp-ht-p10{height: 10% !important}
+.hdp-ht-p20{height: 20% !important}
+.hdp-ht-p30{height: 30% !important}
+.hdp-ht-p40{height: 40% !important}
+.hdp-ht-p50{height: 50% !important}
+.hdp-ht-p60{height: 60% !important}
+.hdp-ht-p70{height: 70% !important}
+.hdp-ht-p80{height: 80% !important}
+.hdp-ht-p90{height: 90% !important}
+.hdp-ht-p100{height: 100% !important}
 .hdp-ht-50{height: 50px !important}
 .hdp-ht-55{height: 55px !important}
 .hdp-ht-60{height: 60px !important}
@@ -268,17 +268,17 @@
 .hdp-ht-1200{height: 1200px !important}
 
 /* Minimun Height */
-.hdp-mn-ht-a {min-height: auto;}
-.hdp-mn-ht-p10{min-height: 10%;}
-.hdp-mn-ht-p20{min-height: 20%;}
-.hdp-mn-ht-p30{min-height: 30%;}
-.hdp-mn-ht-p40{min-height: 40%;}
-.hdp-mn-ht-p50{min-height: 50%;}
-.hdp-mn-ht-p60{min-height: 60%;}
-.hdp-mn-ht-p70{min-height: 70%;}
-.hdp-mn-ht-p80{min-height: 80%;}
-.hdp-mn-ht-p90{min-height: 90%;}
-.hdp-mn-ht-p100{min-height: 100%;}
+.hdp-mn-ht-a {min-height: auto !important}
+.hdp-mn-ht-p10{min-height: 10% !important}
+.hdp-mn-ht-p20{min-height: 20% !important}
+.hdp-mn-ht-p30{min-height: 30% !important}
+.hdp-mn-ht-p40{min-height: 40% !important}
+.hdp-mn-ht-p50{min-height: 50% !important}
+.hdp-mn-ht-p60{min-height: 60% !important}
+.hdp-mn-ht-p70{min-height: 70% !important}
+.hdp-mn-ht-p80{min-height: 80% !important}
+.hdp-mn-ht-p90{min-height: 90% !important}
+.hdp-mn-ht-p100{min-height: 100% !important}
 .hdp-mn-ht-50{min-height: 50px !important}
 .hdp-mn-ht-55{min-height: 55px !important}
 .hdp-mn-ht-60{min-height: 60px !important}
@@ -512,17 +512,17 @@
 .hdp-mn-ht-1200{min-height: 1200px !important}
 
 /* Maximun Height */
-.hdp-mx-ht-a {max-height: auto;}
-.hdp-mx-ht-p10{max-height: 10%;}
-.hdp-mx-ht-p20{max-height: 20%;}
-.hdp-mx-ht-p30{max-height: 30%;}
-.hdp-mx-ht-p40{max-height: 40%;}
-.hdp-mx-ht-p50{max-height: 50%;}
-.hdp-mx-ht-p60{max-height: 60%;}
-.hdp-mx-ht-p70{max-height: 70%;}
-.hdp-mx-ht-p80{max-height: 80%;}
-.hdp-mx-ht-p90{max-height: 90%;}
-.hdp-mx-ht-p100{max-height: 100%;}
+.hdp-mx-ht-a {max-height: auto !important}
+.hdp-mx-ht-p10{max-height: 10% !important}
+.hdp-mx-ht-p20{max-height: 20% !important}
+.hdp-mx-ht-p30{max-height: 30% !important}
+.hdp-mx-ht-p40{max-height: 40% !important}
+.hdp-mx-ht-p50{max-height: 50% !important}
+.hdp-mx-ht-p60{max-height: 60% !important}
+.hdp-mx-ht-p70{max-height: 70% !important}
+.hdp-mx-ht-p80{max-height: 80% !important}
+.hdp-mx-ht-p90{max-height: 90% !important}
+.hdp-mx-ht-p100{max-height: 100% !important}
 .hdp-mx-ht-50{max-height: 50px !important}
 .hdp-mx-ht-55{max-height: 55px !important}
 .hdp-mx-ht-60{max-height: 60px !important}
@@ -756,17 +756,17 @@
 .hdp-mx-ht-1200{max-height: 1200px !important}
 
 /* Width */
-.hdp-wh-a {width: auto;}
-.hdp-wh-p10{width: 10%;}
-.hdp-wh-p20{width: 20%;}
-.hdp-wh-p30{width: 30%;}
-.hdp-wh-p40{width: 40%;}
-.hdp-wh-p50{width: 50%;}
-.hdp-wh-p60{width: 60%;}
-.hdp-wh-p70{width: 70%;}
-.hdp-wh-p80{width: 80%;}
-.hdp-wh-p90{width: 90%;}
-.hdp-wh-p100{width: 100%;}
+.hdp-wh-a {width: auto !important}
+.hdp-wh-p10{width: 10% !important}
+.hdp-wh-p20{width: 20% !important}
+.hdp-wh-p30{width: 30% !important}
+.hdp-wh-p40{width: 40% !important}
+.hdp-wh-p50{width: 50% !important}
+.hdp-wh-p60{width: 60% !important}
+.hdp-wh-p70{width: 70% !important}
+.hdp-wh-p80{width: 80% !important}
+.hdp-wh-p90{width: 90% !important}
+.hdp-wh-p100{width: 100% !important}
 .hdp-wh-50{width: 50px !important}
 .hdp-wh-55{width: 55px !important}
 .hdp-wh-60{width: 60px !important}
@@ -913,17 +913,17 @@
 .hdp-wh-765{width: 765px !important}
 
 /* Minimun Width */
-.hdp-mn-wh-a {min-width: auto;}
-.hdp-mn-wh-p10{min-width: 10%;}
-.hdp-mn-wh-p20{min-width: 20%;}
-.hdp-mn-wh-p30{min-width: 30%;}
-.hdp-mn-wh-p40{min-width: 40%;}
-.hdp-mn-wh-p50{min-width: 50%;}
-.hdp-mn-wh-p60{min-width: 60%;}
-.hdp-mn-wh-p70{min-width: 70%;}
-.hdp-mn-wh-p80{min-width: 80%;}
-.hdp-mn-wh-p90{min-width: 90%;}
-.hdp-mn-wh-p100{min-width: 100%;}
+.hdp-mn-wh-a {min-width: auto !important}
+.hdp-mn-wh-p10{min-width: 10% !important}
+.hdp-mn-wh-p20{min-width: 20% !important}
+.hdp-mn-wh-p30{min-width: 30% !important}
+.hdp-mn-wh-p40{min-width: 40% !important}
+.hdp-mn-wh-p50{min-width: 50% !important}
+.hdp-mn-wh-p60{min-width: 60% !important}
+.hdp-mn-wh-p70{min-width: 70% !important}
+.hdp-mn-wh-p80{min-width: 80% !important}
+.hdp-mn-wh-p90{min-width: 90% !important}
+.hdp-mn-wh-p100{min-width: 100% !important}
 .hdp-mn-wh-50{min-width: 50px !important}
 .hdp-mn-wh-55{min-width: 55px !important}
 .hdp-mn-wh-60{min-width: 60px !important}
@@ -1070,17 +1070,17 @@
 .hdp-mn-wh-765{min-width: 765px !important}
 
 /* Maximun Width */
-.hdp-mx-wh-a {max-width: auto;}
-.hdp-mx-wh-p10{max-width: 10%;}
-.hdp-mx-wh-p20{max-width: 20%;}
-.hdp-mx-wh-p30{max-width: 30%;}
-.hdp-mx-wh-p40{max-width: 40%;}
-.hdp-mx-wh-p50{max-width: 50%;}
-.hdp-mx-wh-p60{max-width: 60%;}
-.hdp-mx-wh-p70{max-width: 70%;}
-.hdp-mx-wh-p80{max-width: 80%;}
-.hdp-mx-wh-p90{max-width: 90%;}
-.hdp-mx-wh-p100{max-width: 100%;}
+.hdp-mx-wh-a {max-width: auto !important}
+.hdp-mx-wh-p10{max-width: 10% !important}
+.hdp-mx-wh-p20{max-width: 20% !important}
+.hdp-mx-wh-p30{max-width: 30% !important}
+.hdp-mx-wh-p40{max-width: 40% !important}
+.hdp-mx-wh-p50{max-width: 50% !important}
+.hdp-mx-wh-p60{max-width: 60% !important}
+.hdp-mx-wh-p70{max-width: 70% !important}
+.hdp-mx-wh-p80{max-width: 80% !important}
+.hdp-mx-wh-p90{max-width: 90% !important}
+.hdp-mx-wh-p100{max-width: 100% !important}
 .hdp-mx-wh-50{max-width: 50px !important}
 .hdp-mx-wh-55{max-width: 55px !important}
 .hdp-mx-wh-60{max-width: 60px !important}
@@ -1225,3 +1225,4 @@
 .hdp-mx-wh-755{max-width: 755px !important}
 .hdp-mx-wh-760{max-width: 760px !important}
 .hdp-mx-wh-765{max-width: 765px !important}
+}

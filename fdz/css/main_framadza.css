@@ -6,6 +6,7 @@
 @import "sub_display.css";
 @import "sub_border.css";
 @import "font-awesome.min.css";
+@import "sub_sizing/768p_sizing.css";
 body {
 	padding: 0;
 	margin: 0;

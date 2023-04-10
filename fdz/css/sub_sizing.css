@@ -1,9 +1,13 @@
+/*
 @import "sub_sizing/240p_sizing.css";
 @import "sub_sizing/360p_sizing.css";
 @import "sub_sizing/480p_sizing.css";
 @import "sub_sizing/720p_sizing.css";
+
+@import "sub_sizing/1080p_sizing.css";*/
 @import "sub_sizing/768p_sizing.css";
-@import "sub_sizing/1080p_sizing.css";
+
+
 /* Position */
 .left-0{left:0} 
 .right-0{right:0} 
