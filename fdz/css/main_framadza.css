@@ -19,6 +19,9 @@ body {
 a {
 	text-decoration: none;
 }
+p, span, h1, h2, h3, h4, h5, h6 {
+	margin: 10px;
+}
 a:hover {
 	opacity: 75%;
 	text-decoration: underline;

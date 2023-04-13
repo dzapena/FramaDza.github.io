@@ -51,51 +51,15 @@
 }
 
 /* Login Form Minimalis */
-ul{
+#CBtn {
     display: none;
-    position: relative;
-    top: -55px;
-    padding: 55px 0 0 0;
-    margin: 0;
 }
-
-ul:hover{
-    display: block; 
+.btnl:hover {
+    opacity: 50%;
 }
-
-li{
-    background: #ddd;
-    padding: 10px;
-    list-style: none;
+#listing {
+    display: none;
 }
-
-li:hover{ 
-    background: #eee;
-    cursor: pointer;
-}
-
-#button{
-    display: inline-block;
-    padding: 10px;
-    background: #ccc;
-    color: white;
-}
-
-#dropdown{
-    display: inline-block;
-}
-
-#dropdown:active ul{
+#CBtn:checked + #listing {
     display: block;
-} 
-
-#dropdown:aactive ul:hover{
-    display: block;
-}
-
-#dropdown:active #button{
-    display: inline-block;
-    padding: 10px;
-    background: #ccc;
-    color: white;
 }
