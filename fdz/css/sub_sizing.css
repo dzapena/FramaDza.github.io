@@ -3,16 +3,15 @@
 @import "sub_sizing/360p_sizing.css";
 @import "sub_sizing/480p_sizing.css";
 @import "sub_sizing/720p_sizing.css";
-
 @import "sub_sizing/1080p_sizing.css";*/
 @import "sub_sizing/768p_sizing.css";
 
 
 /* Position */
-.left-0{left:0} 
-.right-0{right:0} 
-.top-0{top:0} 
-.bottom-0{bottom:0} 
+.p-lf-0{left:0} 
+.p-rg-0{right:0} 
+.p-tp-0{top:0} 
+.p-bt-0{bottom:0} 
 
 /* Height */
 .ht-a {height: auto;}
