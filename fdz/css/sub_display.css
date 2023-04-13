@@ -23,6 +23,10 @@
 .grid-abs {display: grid;}
 .none-abs {display: none;}
 
+/* Overflow */
+.ovf {
+  overflow-y: scroll;
+}
 
 /* Align Item */
 .alit-cn {align-items: center;}

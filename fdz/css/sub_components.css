@@ -49,3 +49,53 @@
 .login-form-minimalis form p a {
     color: rgb(8, 126, 126);
 }
+
+/* Login Form Minimalis */
+ul{
+    display: none;
+    position: relative;
+    top: -55px;
+    padding: 55px 0 0 0;
+    margin: 0;
+}
+
+ul:hover{
+    display: block; 
+}
+
+li{
+    background: #ddd;
+    padding: 10px;
+    list-style: none;
+}
+
+li:hover{ 
+    background: #eee;
+    cursor: pointer;
+}
+
+#button{
+    display: inline-block;
+    padding: 10px;
+    background: #ccc;
+    color: white;
+}
+
+#dropdown{
+    display: inline-block;
+}
+
+#dropdown:active ul{
+    display: block;
+} 
+
+#dropdown:aactive ul:hover{
+    display: block;
+}
+
+#dropdown:active #button{
+    display: inline-block;
+    padding: 10px;
+    background: #ccc;
+    color: white;
+}
