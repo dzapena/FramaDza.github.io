@@ -50,16 +50,16 @@
     color: rgb(8, 126, 126);
 }
 
-/* Login Form Minimalis */
-#CBtn {
+/* Button Show hide List 1*/
+#CBtn {display: none;}
+.btnl:hover {opacity: 50%;}
+#listing {display: none;}
+#CBtn:checked + #listing {display: block;}
+
+/* Button Show hide List 2*/
+.show-2 {
     display: none;
 }
-.btnl:hover {
-    opacity: 50%;
-}
-#listing {
-    display: none;
-}
-#CBtn:checked + #listing {
+.show-2:target {
     display: block;
 }
