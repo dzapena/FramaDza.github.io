@@ -24,6 +24,9 @@
 .none-abs {display: none;}
 
 /* Overflow */
+.ovf-a {
+  overflow: auto;
+}
 .ovf-sc {
   overflow: scroll;
 }
@@ -40,6 +43,9 @@
   overflow: initial;
 }
 
+.ovf-y-a {
+  overflow-y: auto;
+}
 .ovf-y-sc {
   overflow-y: scroll;
 }
@@ -56,6 +62,9 @@
   overflow-y: initial;
 }
 
+.ovf-x-a {
+  overflow-x: auto;
+}
 .ovf-x-sc {
   overflow-x: scroll;
 }
